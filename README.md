@@ -60,13 +60,13 @@ Go to the terminal in pycharm(at bottom of pycharm) and select the command promp
 
 **Contents:**
 
-  Home page:Introduction of the Project
-    If you are new student then you have to register first which is done by adding his/her image  to Traning_images and  appending his/her name to the csv file
-    For that two options are provided :
-      i)Register by Uploading image
-      ii)Register by capturing image
-  Mark Attendance:To mark the Attendance by Recognizing the face
-  View Attendance Sheet:To view the attendance sheet
+    Home page:Introduction of the Project
+       If you are new student then you have to register first which is done by adding his/her image  to Traning_images and  appending his/her name to the csv file
+       For that two options are provided :
+         i)Register by Uploading image
+         ii)Register by capturing image
+     Mark Attendance:To mark the Attendance by Recognizing the face
+     View Attendance Sheet:To view the attendance sheet
 
 
 
