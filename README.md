@@ -79,3 +79,6 @@ While Capturing the image using Register by capturing image feature,the face mus
 
 Go for Register by Uploading image feature for registration if there is no proper lightning.
 
+**Video Demo Link:**
+  https://drive.google.com/drive/folders/1zudySQaiHQQBAAJpz_ktoF6oyFnhScuW
+
