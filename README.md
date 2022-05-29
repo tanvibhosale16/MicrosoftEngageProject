@@ -46,31 +46,36 @@ Go to the terminal in pycharm(at bottom of pycharm) and select the command promp
 **Streamlit run Camera.py**
 
 ![Screenshot (17)](https://user-images.githubusercontent.com/89827357/170852111-802089f7-124f-4f9a-8e16-04841412d37e.png)
-![Screenshot (18)](https://user-images.githubusercontent.com/89827357/170852118-6603ec6a-3c64-46f7-88cd-7c917f5a845d.png)
+
+![Screenshot (21)](https://user-images.githubusercontent.com/89827357/170852234-25d2abee-5ef9-4e23-9efc-0cf5e27ceec5.png)
 
 **Features:**
-   Upload images 
-   Train Faces
-   Capture Faces
-   Recognize Faces & Mark Attendance
-   Automatic update of attendance in csv file
+
+    Upload images 
+    Train Faces
+    Capture Faces
+    Recognize Faces & Mark Attendance
+    Automatic update of attendance in csv file
 
 
 **Contents:**
+
   Home page:Introduction of the Project
     If you are new student then you have to register first which is done by adding his/her image  to Traning_images and  appending his/her name to the csv file
-   For that two options are provided :
-     i)Register by Uploading image
-     ii)Register by capturing image
-   Mark Attendance:To mark the Attendance by Recognizing the face
-   View Attendance Sheet:To view the attendance sheet
+    For that two options are provided :
+      i)Register by Uploading image
+      ii)Register by capturing image
+  Mark Attendance:To mark the Attendance by Recognizing the face
+  View Attendance Sheet:To view the attendance sheet
 
 
 
 
 **Limitations:**
+
 While Capturing the image using Register by capturing image feature,the face must be detected properly.If blur image or image with extra light on face or in background is captured then it will be problematic while encoding the images.
 
 **Solution:**
+
 Go for Register by Uploading image feature for registration if there is no proper lightning.
 
