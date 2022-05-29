@@ -45,6 +45,8 @@ Go to the terminal in pycharm(at bottom of pycharm) and select the command promp
 
 **Streamlit run Camera.py**
 
+![Screenshot (17)](https://user-images.githubusercontent.com/89827357/170852111-802089f7-124f-4f9a-8e16-04841412d37e.png)
+![Screenshot (18)](https://user-images.githubusercontent.com/89827357/170852118-6603ec6a-3c64-46f7-88cd-7c917f5a845d.png)
 
 **Features:**
    Upload images 
