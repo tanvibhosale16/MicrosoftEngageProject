@@ -1,4 +1,4 @@
- #Face Recognition Attendance System
+ # Face Recognition Attendance System #
 
   **Recognize The faces And Take Automatic Attendance**
   
