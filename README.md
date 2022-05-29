@@ -8,25 +8,46 @@ With a face recognition attendance system, the entire environment is automated. 
 Tech Used :
 
 Build With -  Python 3.9
+
 Module Used - All The Modules are of Latest Versions.
-OpenCV Contrib  Python 4.5.5.64
-face_recognition
-numpy
-pandas
-plotty
-csv
-Cv2
-os
-requests
-cmake
-delib
-PIL
-datetime
-streamlit
-streamlit_lottie
-Software Used -
-Pycharm 2022.1.1
-VS CODE(Desktop C & C++ environment required)
+
+      OpenCV Contrib  Python 4.5.5.64
+      
+      face_recognition
+      
+      numpy
+      
+      pandas
+      
+      plotty
+      
+      csv
+      
+      cv2
+      
+      os
+      
+      requests
+      
+      cmake
+      
+      dlib
+      
+      PIL
+      
+      datetime
+      
+      streamlit
+      
+      streamlit_lottie
+      
+      
+      Software Used -
+      
+      Pycharm 2022.1.1
+      
+      VS CODE(Desktop C & C++ environment required)
+      
 
 create environment :
 (Requirements: Open the complete folder of project in the pycharm,the folder should contain Training_images folder,Attendance.csv,venv folder ,Camera.py,config.toml file,HomePage.jpg,viewAtten.jpg) 
