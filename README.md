@@ -39,9 +39,12 @@ With a face recognition attendance system, the entire environment is automated. 
 
 Save config.toml file in .streamlit folder 
 
+![Screenshot (14)](https://user-images.githubusercontent.com/89827357/170852106-033c3c55-a354-467d-b180-20d6449615f7.png)
+
 Go to the terminal in pycharm(at bottom of pycharm) and select the command prompt option and run the following command to run the .py file.
 
 **Streamlit run Camera.py**
+
 
 **Features:**
    Upload images 
